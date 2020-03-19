@@ -5,7 +5,7 @@ in PYTHON
 
 PTA:https://pintia.cn/problem-sets/1211841066264109056
 
-QUESTION LIST:\
+#### QUESTION LIST:\
   01-复杂度1 最大子列和问题\
   01-复杂度2 Maximum Subsequence Sum\
   02-线性结构2 一元多项式的乘法与加法运算\
@@ -22,7 +22,7 @@ QUESTION LIST:\
   05-树9 Huffman Codes\
   
   
-Details:
+#### Details:\
   1.O(n)遍历\
   2.在1的基础上修改即可\
   3.字典实现加，遍历列表实现乘，字典合并\
