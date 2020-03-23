@@ -41,8 +41,9 @@ PTA:https://pintia.cn/problem-sets/1211841066264109056
   13.线性list实现并查集，查找优化，有极限\
   14.计算WPL，查前缀码（不建树），有极限\
   15.list存图，递归DFS，BFS，（注意python list(set(会变序，算是bug(被折磨了一时)\
-  16.
-  17.BFS遍历即可，有极限
+  16.随便写就行\
+  17.BFS遍历即可，有极限\
+
   
   
   
