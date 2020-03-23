@@ -5,7 +5,7 @@ in PYTHON
 
 PTA:https://pintia.cn/problem-sets/1211841066264109056
 
-#### QUESTION LIST:\
+#### QUESTION LIST:
   01-复杂度1 最大子列和问题\
   01-复杂度2 Maximum Subsequence Sum\
   02-线性结构2 一元多项式的乘法与加法运算\
@@ -21,9 +21,11 @@ PTA:https://pintia.cn/problem-sets/1211841066264109056
   05-树8 File Transfer\
   05-树9 Huffman Codes\
   06-图1 列出连通集\
+  06-图2 Saving James Bond - Easy Version\
+  06-图3 六度空间
   
   
-#### Details:\
+#### Details:
   1.O(n)遍历\
   2.在1的基础上修改即可\
   3.字典实现加，遍历列表实现乘，字典合并\
@@ -38,7 +40,9 @@ PTA:https://pintia.cn/problem-sets/1211841066264109056
   12.调库\
   13.线性list实现并查集，查找优化，有极限\
   14.计算WPL，查前缀码（不建树），有极限\
-  15.list存图，递归DFS，BFS，（注意python list(set(会变序，算是bug(被折磨了一时)）\
+  15.list存图，递归DFS，BFS，（注意python list(set(会变序，算是bug(被折磨了一时)\
+  16.
+  17.BFS遍历即可，有极限
   
   
   
