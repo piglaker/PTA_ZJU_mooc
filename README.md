@@ -1,7 +1,6 @@
 # PTA_ZJU_mooc
-by piglake 
-PTA of ZJU_mooc (浙大数据结构moocPTA平台习题 )
-
+PTA of ZJU_mooc (浙大数据结构moocPTA平台习题 )\
+by PIGLAKE\
 in PYTHON
 
 PTA:https://pintia.cn/problem-sets/1211841066264109056
