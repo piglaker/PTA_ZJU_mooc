@@ -20,6 +20,7 @@ PTA:https://pintia.cn/problem-sets/1211841066264109056
   05-树7 堆中的路径\
   05-树8 File Transfer\
   05-树9 Huffman Codes\
+  06-图1 列出连通集\
   
   
 #### Details:\
@@ -37,6 +38,7 @@ PTA:https://pintia.cn/problem-sets/1211841066264109056
   12.调库\
   13.线性list实现并查集，查找优化，有极限\
   14.计算WPL，查前缀码（不建树），有极限\
+  15.list存图，递归DFS，BFS，（注意python list(set(会变序，算是bug(被折磨了一时)）\
   
   
   
