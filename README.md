@@ -22,7 +22,10 @@ PTA:https://pintia.cn/problem-sets/1211841066264109056
   05-树9 Huffman Codes\
   06-图1 列出连通集\
   06-图2 Saving James Bond - Easy Version\
-  06-图3 六度空间
+  06-图3 六度空间\
+  07-图4 哈利·波特的考试\
+  07-图5 Saving James Bond - Hard Version\
+  07-图6 旅游规划
   
   
 #### Details:
@@ -43,7 +46,9 @@ PTA:https://pintia.cn/problem-sets/1211841066264109056
   15.list存图，递归DFS，BFS，（注意python list(set(会变序，算是bug(被折磨了一时)\
   16.随便写就行\
   17.BFS遍历即可，有极限\
-
+  18.三重循环的Floyd算法，有极限\
+  19.简单版的代码改了改，每次deep都check min_start_jump_distance条件\
+  20.(ill today 被折磨了一时)改一下dijsk算法，有极限
   
   
   
