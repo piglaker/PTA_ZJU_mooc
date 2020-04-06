@@ -25,7 +25,10 @@ PTA:https://pintia.cn/problem-sets/1211841066264109056
   06-图3 六度空间\
   07-图4 哈利·波特的考试\
   07-图5 Saving James Bond - Hard Version\
-  07-图6 旅游规划
+  07-图6 旅游规划\
+  08-图7 公路村村通\
+  08-图8 How Long Does It Take\
+  08-图9 关键活动
   
   
 #### Details:
@@ -48,7 +51,9 @@ PTA:https://pintia.cn/problem-sets/1211841066264109056
   17.BFS遍历即可，有极限\
   18.三重循环的Floyd算法，有极限\
   19.简单版的代码改了改，每次deep都check min_start_jump_distance条件\
-  20.(ill today 被折磨了一时)改一下dijsk算法，有极限
-  
+  20.(ill today 被折磨了一时)改一下dijsk算法，有极限\
+  21.最小生成树-简单的贪心dsk(无向图)，有极限\
+  22.有向无环图\
+  23.22略改（由于明天过生气下午摸鱼了会导致写的很难看）\
   
   
