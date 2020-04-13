@@ -28,7 +28,10 @@ PTA:https://pintia.cn/problem-sets/1211841066264109056
   07-图6 旅游规划\
   08-图7 公路村村通\
   08-图8 How Long Does It Take\
-  08-图9 关键活动
+  08-图9 关键活动\
+  09-排序1 排序\
+  09-排序2 Insert or Merge\
+  09-排序3 Insertion or Heap Sort\
   
   
 #### Details:
@@ -55,5 +58,8 @@ PTA:https://pintia.cn/problem-sets/1211841066264109056
   21.最小生成树-简单的贪心dsk(无向图)，有极限\
   22.有向无环图\
   23.22略改（由于明天过生日下午摸鱼了会导致写的很难看\
+  24. \
+  25.非递归的Merge\
+  26. \
   
   
