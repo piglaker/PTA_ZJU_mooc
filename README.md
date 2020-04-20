@@ -32,6 +32,9 @@ PTA:https://pintia.cn/problem-sets/1211841066264109056
   09-排序1 排序\
   09-排序2 Insert or Merge\
   09-排序3 Insertion or Heap Sort\
+  10-排序4 统计工龄\
+  10-排序5 PAT Judge\
+  10-排序6 Sort with Swap(0, i)\
   
   
 #### Details:
@@ -58,8 +61,10 @@ PTA:https://pintia.cn/problem-sets/1211841066264109056
   21.最小生成树-简单的贪心dsk(无向图)，有极限\
   22.有向无环图\
   23.22略改（由于明天过生日下午摸鱼了会导致写的很难看\
-  24. \
+  24.调库\
   25.非递归的Merge\
-  26. \
-  
+  26.堆与插入\
+  27.调库\
+  28.排！就硬排！（有极限)\
+  29.Python是没有极限的！\
   
