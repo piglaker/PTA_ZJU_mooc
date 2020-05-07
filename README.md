@@ -39,6 +39,7 @@ PTA:https://pintia.cn/problem-sets/1211841066264109056
   11-散列2 Hashing\
   11-散列3 QQ帐户的申请与登陆\
   11-散列4 Hashing - Hard Version\
+  KMP 串的模式匹配\
   
   
 #### Details:
@@ -75,4 +76,5 @@ PTA:https://pintia.cn/problem-sets/1211841066264109056
   31.素数+散列表+quadratic probing\
   32.字典\
   33.easy\
+  34.python超时，后用c重写\
   
