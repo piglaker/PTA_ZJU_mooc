@@ -64,7 +64,7 @@ PTA:https://pintia.cn/problem-sets/1211841066264109056
   19.简单版的代码改了改，每次deep都check min_start_jump_distance条件\
   20.(ill today 被折磨了一时)改一下dijsk算法，有极限\
   21.最小生成树-简单的贪心dsk(无向图)，有极限\
-  22.有向无环图\
+  22.有向无环图，拓扑排序(2020.10.8复习考古):求入度为0,update,then del node which degree == 0, continue\
   23.22略改（由于明天过生日下午摸鱼了会导致写的很难看\
   24.调库\
   25.非递归的Merge\
